@@ -1,0 +1,3 @@
+[submodule "third/cpp2sky"]
+	path = third/cpp2sky
+	url = https://github.com/SkyAPM/cpp2sky.git
